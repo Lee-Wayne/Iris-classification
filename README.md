@@ -1,6 +1,5 @@
 # Iris-classification
 
-*Chinese*
 
 # Python 操作 Excel (使用openpyxl)
 # 这是一个分类的练习，使用最小的欧氏距离作为分类的思路。
@@ -27,7 +26,6 @@ Iris 鸾尾花
 30个测试样本中有29个样本是判定正确的，精度约为96.7%。
 
 
-*English*
 
 # Python operates Excel (using openpyxl)
 # This is a classification exercise, using the minimum Euclidean distance as the classification idea
